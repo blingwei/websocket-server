@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  redis:
+    database: 0
+    host: "redis adress"
+    password: "redis auth"
+
+
